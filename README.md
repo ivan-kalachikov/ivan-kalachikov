@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Ivan - a humble frontend developer
 
-<p align="center">
-  <a href="https://nuxters.nuxt.com/ivan-kalachikov" target="_blank"><img src="https://nuxters.nuxt.com/card/ivan-kalachikov/og.png" alt="Ivan on Nuxters" height="630" width="1200" /></a>
-</p>
+[![ivan-kalachikov Nuxter profile](https://nuxters.nuxt.com/card/ivan-kalachikov/og.png)](https://nuxters.nuxt.com/ivan-kalachikov)
 
 <!--
 **ivan-kalachikov/ivan-kalachikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
